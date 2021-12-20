@@ -2,45 +2,45 @@
   "allQuestions": [
     {
       "_id": "nature",
-      "categoryNature": [
+      "category": [
         {
           "question": "What do cows drink?",
-          "content": ["Water", "Milk", "Coke", "Beer"],
+          "content": ["1 Water", "2 Milk", "3 Coke", "4 Beer"],
           "correct": 0
         },
         {
           "question": "What is the bird that lays the smallest eggs?",
-          "content": ["Canary", "Hummingbird", "Swallow", "Parakeet"],
+          "content": ["1 Canary", "2 Hummingbird", "3 Swallow", " 4Parakeet"],
           "correct": 1
         },
 
         {
           "question": "What is the largest fish in the world?",
           "content": [
-            "Blue whale",
-            "Giant grouper",
-            "Southern elephant seal",
-            "Whale shark"
+            "1 Blue whale",
+            "2 Giant grouper",
+            "3 Southern elephant seal",
+            "4 Whale shark"
           ],
           "correct": 3
         },
         {
           "question": "What is the most poisonous animal in the world?",
           "content": [
-            "Blue-ringed Octopus",
-            "Banana spider",
-            "Sea wasp",
-            "Black mamba"
+            "1 Blue-ringed Octopus",
+            "2 Banana spider",
+            "3 Sea wasp",
+            "4 Black mamba"
           ],
           "correct": 2
         },
         {
           "question": "According to its diet, what type of animal is the adult Brown Bear?",
           "content": [
-            "Scavenger omnivores",
-            "vegetarian",
-            "carnivores",
-            "Alcoholics"
+            "1 Scavenger omnivores",
+            "2 vegetarian",
+            "3 carnivores",
+            "4 Alcoholics"
           ],
           "correct": 0
         }
@@ -48,95 +48,95 @@
     },
     {
       "_id": "history",
-      "categoryHistory": [
+      "category": [
         {
           "question": "Who painted the Vitruvian man??",
           "content": [
-            "Michelangelo",
-            "Leonardo da Vinci",
-            "Botero",
-            "George Rocha "
+            "1 Michelangelo",
+            "2 Leonardo da Vinci",
+            "3 Botero",
+            "4 George Rocha "
           ],
           "correct": 1
         },
         {
           "question": "What were the names of the three ships of Christopher Columbus?",
           "content": [
-            "La pinta  la niña y la santa monica",
-            "La niña la santa maria y la pinta",
-            "La piñata la guerrera y la monja ",
-            "La estrada la monica y la torre"
+            "1 La pinta  la niña y la santa monica",
+            "2 La niña la santa maria y la pinta",
+            "3 La piñata la guerrera y la monja ",
+            "4 La estrada la monica y la torre"
           ],
           "correct": 1
         },
         {
           "question": "What is the name of the treaty that was signed to officially end the Second World War?",
           "content": [
-            "Peace treaty",
-            "Treaty of Belfast",
-            "Treaty of Versailles",
-            "Treaty of Chapultepec"
+            "1 Peace treaty",
+            "2 Treaty of Belfast",
+            "3 Treaty of Versailles",
+            "4 Treaty of Chapultepec"
           ],
           "correct": 2
         },
         {
           "question": "In what year did the US dry law begin?",
-          "content": ["1918", "1922", "1930", "1920"],
+          "content": ["1 1918", "2 1922", "3 1930", "4 1920"],
           "correct": 3
         },
 
         {
           "question": "What was the nationality of Joan of Arc?",
-          "content": ["German", "British", "French", "Italian"],
+          "content": ["1 German", "2 British", "3 French", "4 Italian"],
           "correct": 2
         }
       ]
     },
     {
       "_id": "movies",
-      "categoryMovies": [
+      "category": [
         {
           "question": "What is the name of Simba's father in the movie 'The Lion King'",
-          "content": ["Scar", "Mufasa", "Rafiki", "Pumba"],
+          "content": ["1 Scar", "2 Mufasa", "3 Rafiki", "4 Pumba"],
           "correct": 1
         },
         {
           "question": "Which actor played the movie 'The Grinch'?",
           "content": [
-            "Leonardo DiCaprio",
-            "Will Smith ",
-            "Jim Carrey ",
-            "Jack Nicholson "
+            "1 Leonardo DiCaprio",
+            "2 Will Smith ",
+            "3 Jim Carrey ",
+            "4 Jack Nicholson "
           ],
           "correct": 2
         },
         {
           "question": "What is the longest commercial Hollywood movie in history?",
           "content": [
-            "The two Towers",
-            "Cleopatra",
-            "No time to die",
-            "The ten Commandments"
+            "1 The two Towers",
+            "2 Cleopatra",
+            "3 No time to die",
+            "4 The ten Commandments"
           ],
           "correct": 1
         },
         {
           "question": "What is the highest grossing movie?",
           "content": [
-            "Avengers Endgame",
-            "Titanic",
-            "Avatar",
-            "Harry potter and the deathly hallows part 2"
+            "1 Avengers Endgame",
+            "2 Titanic",
+            "3 Avatar",
+            "4 Harry potter and the deathly hallows part 2"
           ],
           "correct": 2
         },
         {
           "question": "What is the film that has won the most Oscars and nominations in the same, in history?",
           "content": [
-            "Titanic",
-            "Avatar",
-            "Star Wars",
-            "The Lord of the rings"
+            "1 Titanic",
+            "2 Avatar",
+            "3 Star Wars",
+            "4 The Lord of the rings"
           ],
           "correct": 0
         }
@@ -144,74 +144,84 @@
     },
     {
       "_id": "mythology",
-      "categoryMythology": [
+      "category": [
         {
           "question": "According to ancient Egypt, who was the sun god?",
-          "content": ["Ra", "Osiris", "Bah", "Cleopatra"],
+          "content": ["1 Ra", "2 Osiris", "3 Bah", "4 Cleopatra"],
           "correct": 0
         },
         {
           "question": "How many labors does Heracles give to Hercules?",
-          "content": ["13", "10", "12", "18"],
-          "correct": 1
+          "content": ["1 13", "2 10", "3 12", "4 18"],
+          "correct": 2
         },
         {
           "question": "What is the name of the monkey god of China?",
-          "content": ["Son Wukong ", "Son Goku", "Son Rutan", "Son Giren "],
+          "content": [
+            "1 Son Wukong ",
+            "2 Son Goku",
+            "3 Son Rutan",
+            "4 Son Giren "
+          ],
           "correct": 0
         },
         {
           "question": "In Norse mythology Odin was known by many names but the most used was",
           "content": [
-            "The Hanged Man",
-            "Father of all",
-            "The miser",
-            "The one who sees all"
+            "1 The Hanged Man",
+            "2 Father of all",
+            "3 The miser",
+            "4 The one who sees all"
           ],
           "correct": 1
         },
         {
           "question": "How many sons did Cronus devour before Zeus defeated him?",
-          "content": ["5", "6", "7", "2"],
+          "content": ["1 5", "2 6", "3 7", "4 2"],
           "correct": 0
         }
       ]
     },
     {
       "_id": "art",
-      "categoryArt": [
+      "category": [
         {
           "question": "Who painted the Sistine Chapel?",
-          "content": ["Donatello", "Leonardo", "Raphael", "Michelangelo"],
+          "content": [
+            "1 Donatello",
+            "2 Leonardo",
+            "3 Raphael",
+            "4 Michelangelo"
+          ],
           "correct": 3
         },
         {
           "question": "What is the oldest painting in the world?",
           "content": [
-            "Mona Lisa",
-            "Vitruvian man",
-            "Rock painting warty pig",
-            "The Scream"
+            "1 Mona Lisa",
+            "2 Vitruvian man",
+            "3 Rock painting warty pig",
+            "4 The Scream"
           ],
           "correct": 2
         },
         {
           "question": "How many sunflowers did van gogh paint??",
-          "content": ["18", "20", "17", "None of the above"],
+          "content": ["1 18", "2 20", "3 17", "4 None of the above"],
           "correct": 3
         },
         {
           "question": "What surname did the poet who wrote 'A la izquierda del roble' bear??",
-          "content": ["Borges", "Benedetti", "Cardenal", "Mutis"],
+          "content": ["1 Borges", "2 Benedetti", "3 Cardenal", "4 Mutis"],
           "correct": 1
         },
         {
           "question": "Who was the composer of the Flight of the Bumblebee?",
           "content": [
-            "Michel Petrucciani",
-            "Nikolai Rimsky-Korsakov",
-            "Ludwig Van Beethoven",
-            "Frederic Chopin"
+            "1 Michel Petrucciani",
+            "2 Nikolai Rimsky-Korsakov",
+            "3 Ludwig Van Beethoven",
+            "4 Frederic Chopin"
           ],
           "correct": 1
         }
