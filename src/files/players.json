@@ -1,0 +1,8 @@
+{
+  "allPlayers": [
+    { "_id": "00000", "name": "Chimuelo", "score": "25000" },
+    { "_id": "16011", "name": "Ellie", "score": 0 },
+    { "_id": "92567", "name": "Ellie", "score": 0 },
+    { "_id": "35701", "name": "Ellie", "score": 0 }
+  ]
+}
