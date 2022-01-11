@@ -10,7 +10,7 @@
         },
         {
           "question": "What is the bird that lays the smallest eggs?",
-          "content": ["1 Canary", "2 Hummingbird", "3 Swallow", " 4Parakeet"],
+          "content": ["1 Canary", "2 Hummingbird", "3 Swallow", "4 Parakeet"],
           "correct": 1
         },
 
